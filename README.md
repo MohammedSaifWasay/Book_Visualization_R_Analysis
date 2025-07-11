@@ -1,4 +1,4 @@
-# 📚 Project 3: Exploring Data Visualizations in R
+# 📚Exploring Data Visualizations in R for Book Data
 
 ---
 
